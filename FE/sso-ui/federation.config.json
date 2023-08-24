@@ -1,0 +1,6 @@
+{
+  "name": "sso_ui",
+  "exposes": {
+    "./App": "./src/App"
+  }
+}

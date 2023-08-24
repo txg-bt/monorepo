@@ -1,0 +1,6 @@
+{
+  "name": "vendor_reservations_ui",
+  "exposes": {
+    "./App": "./src/App"
+  }
+}

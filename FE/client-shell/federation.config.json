@@ -1,0 +1,8 @@
+{
+  "name": "client-shell",
+  "remotes": {
+  "sso_ui": "sso_ui@http://localhost:8001/remoteEntry.js",
+  "client_restaurants_ui": "client_restaurants_ui@http://localhost:8013/remoteEntry.js",
+  "client_reservations_ui": "client_reservations_ui@http://localhost:8018/remoteEntry.js"
+  }
+}

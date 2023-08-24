@@ -1,0 +1,6 @@
+{
+  "name": "client_reservations_ui",
+  "exposes": {
+    "./App": "./src/App"
+  }
+}

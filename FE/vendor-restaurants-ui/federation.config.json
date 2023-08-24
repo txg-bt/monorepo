@@ -1,0 +1,6 @@
+{
+  "name": "vendor_restaurants_ui",
+  "exposes": {
+    "./App": "./src/App"
+  }
+}

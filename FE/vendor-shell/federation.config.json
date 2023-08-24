@@ -1,0 +1,8 @@
+{
+  "name": "vendor-shell",
+  "remotes": {
+  "sso_ui": "sso_ui@http://localhost:8001/remoteEntry.js",
+  "vendor_restaurants_ui": "vendor_restaurants_ui@http://localhost:8100/remoteEntry.js",
+  "vendor_reservations_ui": "vendor_reservations_ui@http://localhost:8200/remoteEntry.js"
+  }
+}
